@@ -1,0 +1,23 @@
+*{
+    padding: o;
+    margin: 0;
+}
+.myMargin{
+ margin:100px;
+
+}
+.navright{
+    float:right;
+}
+.myloginbtn{
+    margin:5%;
+    margin-left: 94%;
+
+}
+
+/* .form-control:valid {
+    background-color:  #96d3ec!important;
+  } */
+  /* .col-lg-3{
+    background-color:orange
+  } */
